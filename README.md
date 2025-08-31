@@ -96,8 +96,3 @@ These visuals enhanced understanding and communication of complex data insights 
 This project demonstrates how product and outlet attributes influence sales dynamics in grocery retail. Data cleaning and thorough analysis led to actionable business insights that can support marketing strategy, inventory control, and store management optimization. Practical skills in SQL, Python, and Power BI were strengthened through end-to-end data analysis and visualization.
 
 ---
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/96773608/b383e73a-b60b-4330-9418-fe943a66dbc1/Everyday-Analysis.docx)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/96773608/2c079fa5-a36d-441d-8d1e-3d3c619961e2/PROJECT-ANALYSIS-REPORT-USING-PYTHON.docx)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/96773608/b2f2e91f-1989-4bb7-9b93-756dc851cecf/Power-bi-everyday-supermart-analysis.docx)
